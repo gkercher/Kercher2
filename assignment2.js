@@ -55,7 +55,7 @@ window.onload = function init()
         vec2(-1,1),
         vec2(-1,0),
         vec2(1,1),
-        vec2(1,0), // Top rectagle (comprised of two triangles) behind the top fan
+        vec2(1,0), // Top rectangle (comprised of two triangles) behind the top fan
         vec2(0,-1),
         vec2(-1,-1),
         vec2(-0.7,-0.8),
